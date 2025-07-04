@@ -13,5 +13,4 @@ public class Wizard extends Character{
         m.hp -= 20;
         this.mp -= 5;
     }
-
 }

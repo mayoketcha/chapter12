@@ -10,5 +10,4 @@ public class SuperHero extends Hero{
         this.flying = false;
         System.out.println("着地した！");
     }
-
 }

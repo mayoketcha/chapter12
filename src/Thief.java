@@ -17,5 +17,4 @@ public class Thief extends Character{
         System.out.println("敵に5ポイントのダメージ");
         s.hp -= 5;
     }
-
 }
